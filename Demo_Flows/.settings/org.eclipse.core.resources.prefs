@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//mqsi/Error.esql=UTF-8
+encoding//mqsi/Error.subflow=UTF-8
+encoding//mqsi/Log.esql=UTF-8
+encoding//mqsi/Log.subflow=UTF-8
+encoding//mqsi/Request.esql=UTF-8
+encoding//mqsi/Request.msgflow=UTF-8
+encoding//mqsi/RequestProcessor.subflow=UTF-8
